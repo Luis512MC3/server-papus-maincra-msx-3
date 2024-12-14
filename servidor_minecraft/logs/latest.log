@@ -140,3 +140,20 @@
 [04:00:41] [Server thread/INFO]: [AngelChest] https://www.spigotmc.org/resources/88214
 [04:00:41] [Server thread/INFO]: [AngelChest] ========================================================
 [04:01:38] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[04:14:08] [User Authenticator #0/INFO]: UUID of player Jogitoramon is 7fb7be7d-281c-3be4-a990-a8900131a4bc
+[04:14:11] [Server thread/INFO]: Jogitoramon joined the game
+[04:14:11] [Server thread/INFO]: Jogitoramon[/127.48.121.197:58515] logged in with entity id 64 at ([world]522.5575248977731, 69.02665039550511, -488.49372266201055)
+[04:15:43] [Server thread/INFO]: Jogitoramon lost connection: Timed out
+[04:15:43] [Server thread/INFO]: Jogitoramon left the game
+[04:16:42] [User Authenticator #1/INFO]: UUID of player Jogitoramon is 7fb7be7d-281c-3be4-a990-a8900131a4bc
+[04:16:43] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[04:16:44] [Server thread/INFO]: Jogitoramon joined the game
+[04:16:44] [Server thread/INFO]: Jogitoramon[/127.48.121.197:40297] logged in with entity id 487 at ([world]524.6731064320105, 66.0, -514.0718556569723)
+[04:16:53] [Async Chat Thread - #0/INFO]: [Not Secure] <Jogitoramon> ala
+[04:18:35] [Server thread/INFO]: Jogitoramon lost connection: Timed out
+[04:18:35] [Server thread/INFO]: Jogitoramon left the game
+[04:18:49] [User Authenticator #2/INFO]: UUID of player Jogitoramon is 7fb7be7d-281c-3be4-a990-a8900131a4bc
+[04:18:50] [Server thread/INFO]: Jogitoramon joined the game
+[04:18:50] [Server thread/INFO]: Jogitoramon[/127.48.121.197:36797] logged in with entity id 923 at ([world]564.7983705771321, 63.0, -547.6999999880791)
+[04:19:15] [Async Chat Thread - #1/INFO]: [Not Secure] <Jogitoramon> chale
+[04:19:18] [Async Chat Thread - #1/INFO]: [Not Secure] <Jogitoramon> que feo

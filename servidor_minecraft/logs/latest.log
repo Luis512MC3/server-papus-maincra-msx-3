@@ -191,3 +191,17 @@
 [04:31:41] [Async Chat Thread - #10/INFO]: [Not Secure] <Luis512MC> xd
 [04:32:07] [Async Chat Thread - #10/INFO]: [Not Secure] <.CrashBlock73577> pobre oveja
 [04:32:14] [Async Chat Thread - #11/INFO]: [Not Secure] <.CrashBlock73577> trae frio XDXDDDDD
+[04:36:00] [localSession-7-2/INFO]: [Geyser-Spigot] CrashBlock73577 has disconnected from the Java server because of Bedrock client timed out
+[04:36:00] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .CrashBlock73577 disconnected
+[04:36:00] [Server thread/INFO]: .CrashBlock73577 lost connection: Disconnected
+[04:36:00] [Server thread/INFO]: .CrashBlock73577 left the game
+[04:38:14] [Server thread/INFO]: Luis512MC issued server command: /realregions
+[04:39:38] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username CrashBlock73577
+[04:39:38] [localSession-7-3/INFO]: [Geyser-Spigot] CrashBlock73577 (logged in as: CrashBlock73577) has connected to the Java server
+[04:39:39] [Server thread/INFO]: [floodgate] Floodgate player logged in as .CrashBlock73577 joined (UUID: 00000000-0000-0000-0009-01f00bc69dfd)
+[04:39:39] [Server thread/INFO]: .CrashBlock73577 joined the game
+[04:39:39] [Server thread/INFO]: .CrashBlock73577[/127.0.0.1:0] logged in with entity id 14188 at ([world]1587.7988, 61.42886, -631.2542)
+[04:39:46] [Async Chat Thread - #12/INFO]: [Not Secure] <Luis512MC> oye
+[04:39:51] [Async Chat Thread - #12/INFO]: [Not Secure] <Luis512MC> voy a minar
+[04:40:31] [Server thread/WARN]: .CrashBlock73577 moved wrongly!
+[04:40:32] [Server thread/WARN]: .CrashBlock73577 moved wrongly!

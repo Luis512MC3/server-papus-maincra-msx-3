@@ -130,3 +130,8 @@
 [03:37:59] [User Authenticator #0/INFO]: UUID of player Luis512MC is 5481e4e4-6be3-3172-8677-4830fb8a2f43
 [03:38:02] [Server thread/INFO]: Luis512MC joined the game
 [03:38:02] [Server thread/INFO]: Luis512MC[/127.48.121.197:60749] logged in with entity id 12 at ([world_nether]11.126071250225454, 71.0, -16.540754790225645)
+[03:43:40] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username CrashBlock73577
+[03:43:40] [localSession-7-2/INFO]: [Geyser-Spigot] CrashBlock73577 (logged in as: CrashBlock73577) has connected to the Java server
+[03:43:40] [Server thread/INFO]: [floodgate] Floodgate player logged in as .CrashBlock73577 joined (UUID: 00000000-0000-0000-0009-01f00bc69dfd)
+[03:43:41] [Server thread/INFO]: .CrashBlock73577 joined the game
+[03:43:41] [Server thread/INFO]: .CrashBlock73577[/127.0.0.1:0] logged in with entity id 326 at ([world]1709.8748, 133.0, -726.41113)

@@ -137,3 +137,24 @@
 [03:43:41] [Server thread/INFO]: .CrashBlock73577[/127.0.0.1:0] logged in with entity id 326 at ([world]1709.8748, 133.0, -726.41113)
 [03:53:49] [Server thread/INFO]: .CrashBlock73577 was slain by Iron Golem
 [03:59:07] [Server thread/INFO]: .CrashBlock73577 was slain by Iron Golem
+[04:03:19] [Server thread/INFO]: .CrashBlock73577 was doomed to fall by Iron Golem
+[04:04:35] [Server thread/INFO]: Villager Villager['Nitwit'/1963, uuid='8d37e9ca-9b86-4225-9557-b90f82506740', l='ServerLevel[world]', x=1723.53, y=83.56, z=-452.04, cpos=[107, -29], tl=387391, v=true] died, message: 'Nitwit was slain by Zombie'
+[04:04:48] [Server thread/INFO]: Luis512MC issued server command: /gamemode adventure
+[04:04:48] [Server thread/INFO]: [Luis512MC: Set own game mode to Adventure Mode]
+[04:04:57] [Server thread/INFO]: Villager Villager['Villager'/1960, uuid='119aa72a-1863-4fb6-a5c1-6a412ba37bdb', l='ServerLevel[world]', x=1723.65, y=83.56, z=-447.30, cpos=[107, -28], tl=208778, v=true] died, message: 'Villager was slain by Zombie'
+[04:05:00] [Async Chat Thread - #0/INFO]: [Not Secure] <Luis512MC> wtf modo aventura
+[04:05:02] [Async Chat Thread - #0/INFO]: [Not Secure] <Luis512MC> xd
+[04:05:06] [Server thread/INFO]: Luis512MC issued server command: /gamemode survival
+[04:05:06] [Server thread/INFO]: [Luis512MC: Set own game mode to Survival Mode]
+[04:05:16] [Server thread/INFO]: Villager Villager['Toolsmith'/1962, uuid='6deb57fc-b686-4b15-ba85-791d16449ae1', l='ServerLevel[world]', x=1717.16, y=83.00, z=-447.30, cpos=[107, -28], tl=60886, v=true] died, message: 'Toolsmith was slain by Zombie'
+[04:06:08] [Server thread/INFO]: Villager Villager['Villager'/1964, uuid='39de5924-ac65-4675-8f0a-d2ad37fa791d', l='ServerLevel[world]', x=1723.51, y=83.00, z=-453.42, cpos=[107, -29], tl=70229, v=true] died, message: 'Villager was slain by Zombie'
+[04:06:09] [Async Chat Thread - #2/INFO]: [Not Secure] <.CrashBlock73577> por que los golems spawnean desde afuera?
+[04:06:58] [Async Chat Thread - #2/INFO]: [Not Secure] <Luis512MC> en la granja?
+[04:07:03] [Async Chat Thread - #2/INFO]: [Not Secure] <Luis512MC> eso no debería de pasar xd
+[04:07:05] [Async Chat Thread - #2/INFO]: [Not Secure] <.CrashBlock73577> si
+[04:07:20] [Async Chat Thread - #2/INFO]: [Not Secure] <.CrashBlock73577> hay muchos afuera
+[04:07:23] [Async Chat Thread - #2/INFO]: [Not Secure] <Luis512MC> algo hice mal
+[04:07:36] [Async Chat Thread - #2/INFO]: [Not Secure] <.CrashBlock73577> ya mate a tres
+[04:07:39] [Async Chat Thread - #2/INFO]: [Not Secure] <.CrashBlock73577> XD
+[04:08:36] [Server thread/INFO]: .CrashBlock73577 was slain by Iron Golem
+[04:11:57] [Server thread/INFO]: .CrashBlock73577 was shot by Skeleton

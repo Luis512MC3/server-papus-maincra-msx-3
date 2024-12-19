@@ -1,8 +1,396 @@
-[02:47:16] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu120.04; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
-[02:47:16] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.3-29-master@be886cf (2024-11-15T09:07:14Z) for Minecraft 1.21.3
-[02:47:16] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[02:47:17] [ServerMain/INFO]: [PluginInitializerManager] Initialized 7 plugins
-[02:47:17] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (7):
+[02:52:00] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu120.04; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
+[02:52:00] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.3-29-master@be886cf (2024-11-15T09:07:14Z) for Minecraft 1.21.3
+[02:52:00] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[02:52:01] [ServerMain/INFO]: [PluginInitializerManager] Initialized 7 plugins
+[02:52:01] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (7):
  - AngelChest (13.9.0), Geyser-Spigot (2.5.1-SNAPSHOT), RealRegions (0.7.4), SkinsRestorer (15.5.0), ViaVersion (5.2.0), WorldEdit (7.3.9-beta-01+e8aa544), floodgate (2.2.3-SNAPSHOT (b114-83fbd6e))
-[02:47:21] [ServerMain/WARN]: Failed to load eula.txt
-[02:47:21] [ServerMain/INFO]: You need to agree to the EULA in order to run the server. Go to eula.txt for more info.
+[02:52:05] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[02:52:07] [ServerMain/INFO]: Loaded 1337 recipes
+[02:52:07] [ServerMain/INFO]: Loaded 1448 advancements
+[02:52:07] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[02:52:07] [Server thread/INFO]: Loading properties
+[02:52:07] [Server thread/INFO]: This server is running Paper version 1.21.3-29-master@be886cf (2024-11-15T09:07:14Z) (Implementing API version 1.21.3-R0.1-SNAPSHOT)
+[02:52:08] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[02:52:08] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[02:52:08] [Server thread/INFO]: Using 4 threads for Netty based IO
+[02:52:09] [Server thread/INFO]: [ca.spottedleaf.moonrise.common.util.MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[02:52:09] [Server thread/INFO]: [ca.spottedleaf.moonrise.patches.chunk_system.scheduling.ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[02:52:09] [Server thread/INFO]: Default game type: SURVIVAL
+[02:52:09] [Server thread/INFO]: Generating keypair
+[02:52:09] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:52:09] [Server thread/INFO]: Using epoll channel type
+[02:52:09] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[02:52:09] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[02:52:10] [Server thread/INFO]: [WorldEdit] Loading server plugin WorldEdit v7.3.9-beta-01+e8aa544
+[02:52:11] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@1c9a9b60]
+[02:52:11] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
+[02:52:11] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
+[02:52:11] [Server thread/INFO]: [floodgate] Took 668ms to boot Floodgate
+[02:52:11] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.2.0
+[02:52:11] [Server thread/INFO]: [ViaVersion] ViaVersion 5.2.0 is now loaded. Registering protocol transformers and injecting...
+[02:52:12] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[02:52:12] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[02:52:12] [Server thread/INFO]: [AngelChest] Loading server plugin AngelChest v13.9.0
+[02:52:12] [Server thread/INFO]: [RealRegions] Loading server plugin RealRegions v0.7.4
+[02:52:12] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.5.1-SNAPSHOT
+[02:52:13] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[02:52:13] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[02:52:13] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.5.0
+[02:52:13] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[02:52:13] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.3.9-beta-01+e8aa544
+[02:52:13] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[02:52:13] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[02:52:13] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_21_3.PaperweightAdapter as the Bukkit adapter
+[02:52:14] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.0
+[02:52:15] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[02:52:15] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.3.
+[02:52:15] [Server thread/INFO]: [SkinsRestorer] Floodgate skin listener registered
+[02:52:15] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[02:52:15] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:52:15] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:52:15] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:52:15] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:52:15] [Server thread/INFO]: Preparing level "world"
+[02:52:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[02:52:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[02:52:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[02:52:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[02:52:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[02:52:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[02:52:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[02:52:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.5.0
+[02:52:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: ad418e4
+[02:52:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[02:52:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[02:52:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[02:52:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[02:52:16] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:52:16] [Paper Common Worker #0/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[02:52:17] [Paper Common Worker #0/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 249.3ms
+[02:52:17] [Server thread/INFO]: Preparing spawn area: 0%
+[02:52:17] [Server thread/INFO]: Preparing spawn area: 2%
+[02:52:18] [Server thread/INFO]: Preparing spawn area: 32%
+[02:52:18] [Server thread/INFO]: Time elapsed: 1296 ms
+[02:52:18] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[02:52:18] [Server thread/INFO]: Preparing spawn area: 0%
+[02:52:18] [Server thread/INFO]: Time elapsed: 302 ms
+[02:52:18] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[02:52:18] [Server thread/INFO]: Preparing spawn area: 0%
+[02:52:18] [Server thread/INFO]: Time elapsed: 84 ms
+[02:52:18] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
+[02:52:18] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.2.0
+[02:52:18] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21.2-1.21.3 (768)
+[02:52:18] [Server thread/INFO]: [AngelChest] Enabling AngelChest v13.9.0
+[02:52:18] [Server thread/INFO]: [AngelChest] groups.yml does not exist, skipping custom group settings.
+[02:52:18] [Server thread/INFO]: [AngelChest] blacklist.yml does not exist, disabling item blacklist.
+[02:52:18] [Server thread/INFO]: [AngelChest] Not using premium version, disabling Graveyards feature
+[02:52:18] [Server thread/WARN]: [AngelChest] Could not add usage/description to command acopen
+[02:52:19] [Server thread/INFO]: [AngelChest] Vault not installed, disabling economy functions.
+[02:52:19] [Server thread/INFO]: [AngelChest] [ACF] Enabled Asynchronous Tab Completion Support!
+[02:52:19] [Server thread/INFO]: [AngelChest] Successfully enabled AngelChest v13.9.0 (Premium: false)
+[02:52:19] [Server thread/INFO]: [RealRegions] Enabling RealRegions v0.7.4
+[02:52:19] [Server thread/INFO]: [RealRegions]  ______           _______           _      
+[02:52:19] [Server thread/INFO]: [RealRegions]  | ___ \         | | ___ \         (_)  
+[02:52:19] [Server thread/INFO]: [RealRegions]  | |_/ /___  __ _| | |_/ /___  __ _ _  ___  _ __  ___ 
+[02:52:19] [Server thread/INFO]: [RealRegions]  |    // _ \/ _` | |    // _ \/ _` | |/ _ \| '_ \/ __|
+[02:52:19] [Server thread/INFO]: [RealRegions]  | |\ \  __/ (_| | | |\ \  __/ (_| | | (_) | | | \__ \
+[02:52:19] [Server thread/INFO]: [RealRegions]  \_| \_\___|\__,_|_\_| \_\___|\__, |_|\___/|_| |_|___/
+[02:52:19] [Server thread/INFO]: [RealRegions]   Made by: JoseGamer_PT        __/ |   Version: 0.7.4
+[02:52:19] [Server thread/INFO]: [RealRegions]                               |___/
+[02:52:19] [Server thread/INFO]: [RealRegions] 
+[02:52:19] [Server thread/INFO]: [RealRegions] Loaded 3 worlds and 4 regions.
+[02:52:19] [Server thread/INFO]: [RealRegions] Finished loading in 0.265 seconds.
+[02:52:19] [Server thread/INFO]: [RealRegions] <------------------ RealRegions v0.7.4 ------------------>
+[02:52:19] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.5.1-SNAPSHOT
+[02:52:19] [Server thread/INFO]: [spark] Starting background profiler...
+[02:52:20] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[02:52:20] [Server thread/INFO]: [Geyser-Spigot] 
+[02:52:20] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.5.1-b725 (git-master-d2051c2)
+[02:52:20] [Server thread/INFO]: [Geyser-Spigot] 
+[02:52:20] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[02:52:23] [Server thread/INFO]: [Geyser-Spigot] Started Geyser on UDP port 2304
+[02:52:23] [Server thread/INFO]: [Geyser-Spigot] Done (3.552s)! Run /geyser help for help!
+[02:52:23] [Server thread/INFO]: Done preparing level "world" (8.092s)
+[02:52:23] [Server thread/INFO]: Running delayed init tasks
+[02:52:23] [Server thread/INFO]: Done (24.236s)! For help, type "help"
+[02:52:23] [Craft Scheduler Thread - 3 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[02:52:24] [Craft Scheduler Thread - 4 - RealRegions/INFO]: [RealRegions] The plugin is updated to the latest version.
+[02:52:26] [Server thread/INFO]: [AngelChest] ========================================================
+[02:52:26] [Server thread/INFO]: [AngelChest] You are using the free version of AngelChest. There is
+[02:52:26] [Server thread/INFO]: [AngelChest] also a premium version available, called AngelChestPlus.
+[02:52:26] [Server thread/INFO]: [AngelChest] It includes TONS of new features and exclusive Discord
+[02:52:26] [Server thread/INFO]: [AngelChest] support. The free version will still receive bugfixes,
+[02:52:26] [Server thread/INFO]: [AngelChest] but there won't be ANY new features!
+[02:52:26] [Server thread/INFO]: [AngelChest] If you like AngelChest, you will LOVE AngelChestPlus, so
+[02:52:26] [Server thread/INFO]: [AngelChest] please consider upgrading! Thank you for using AngelChest.
+[02:52:26] [Server thread/INFO]: [AngelChest] 
+[02:52:26] [Server thread/INFO]: [AngelChest] https://www.spigotmc.org/resources/88214
+[02:52:26] [Server thread/INFO]: [AngelChest] ========================================================
+[02:53:23] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[02:55:42] [User Authenticator #0/INFO]: UUID of player Luis512MC is 5481e4e4-6be3-3172-8677-4830fb8a2f43
+[02:55:45] [Server thread/INFO]: Luis512MC joined the game
+[02:55:45] [Server thread/INFO]: Luis512MC[/127.48.121.197:45019] logged in with entity id 12 at ([world_nether]210.5, 76.0, -112.5)
+[02:56:52] [Server thread/INFO]: Luis512MC issued server command: /gamemode creative
+[02:56:52] [Server thread/INFO]: [Luis512MC: Set own game mode to Creative Mode]
+[02:57:07] [Server thread/INFO]: Luis512MC issued server command: /gamemode survival
+[02:57:07] [Server thread/INFO]: [Luis512MC: Set own game mode to Survival Mode]
+[03:00:04] [Server thread/INFO]: Luis512MC issued server command: /gamemode creative
+[03:00:04] [Server thread/INFO]: [Luis512MC: Set own game mode to Creative Mode]
+[03:00:16] [Server thread/INFO]: Luis512MC issued server command: /gamemode survival
+[03:00:16] [Server thread/INFO]: [Luis512MC: Set own game mode to Survival Mode]
+[03:01:54] [Server thread/INFO]: Luis512MC issued server command: /gamemode creative
+[03:01:54] [Server thread/INFO]: [Luis512MC: Set own game mode to Creative Mode]
+[03:03:28] [Server thread/INFO]: Luis512MC issued server command: /gamemode survival
+[03:03:28] [Server thread/INFO]: [Luis512MC: Set own game mode to Survival Mode]
+[03:07:20] [Server thread/INFO]: Luis512MC issued server command: /gamemode creative
+[03:07:20] [Server thread/INFO]: [Luis512MC: Set own game mode to Creative Mode]
+[03:07:34] [Server thread/INFO]: Luis512MC issued server command: /gamemode survival
+[03:07:34] [Server thread/INFO]: [Luis512MC: Set own game mode to Survival Mode]
+[03:12:35] [Server thread/WARN]: Luis512MC moved too quickly! -0.31178086960144924,-2.799999952316284,-10.586877733797223
+[03:15:12] [Server thread/INFO]: Luis512MC issued server command: /gamemode creative
+[03:15:12] [Server thread/INFO]: [Luis512MC: Set own game mode to Creative Mode]
+[03:15:30] [Server thread/INFO]: Luis512MC issued server command: /gamemode survival
+[03:15:30] [Server thread/INFO]: [Luis512MC: Set own game mode to Survival Mode]
+[03:20:51] [Server thread/INFO]: Luis512MC issued server command: /gamemode creative
+[03:20:51] [Server thread/INFO]: [Luis512MC: Set own game mode to Creative Mode]
+[03:20:53] [Server thread/INFO]: Luis512MC issued server command: /gamemode spectator
+[03:20:53] [Server thread/INFO]: [Luis512MC: Set own game mode to Spectator Mode]
+[03:21:34] [Server thread/WARN]: Luis512MC moved too quickly! 7.302213235202771,9.937500740308788,-10.154166252237802
+[03:21:58] [Server thread/INFO]: Luis512MC issued server command: /gamemode survival
+[03:21:58] [Server thread/INFO]: [Luis512MC: Set own game mode to Survival Mode]
+[03:22:06] [Server thread/INFO]: Luis512MC issued server command: /gamemode spectator
+[03:22:06] [Server thread/INFO]: [Luis512MC: Set own game mode to Spectator Mode]
+[03:22:20] [Server thread/INFO]: Luis512MC issued server command: /gamemode creative
+[03:22:20] [Server thread/INFO]: [Luis512MC: Set own game mode to Creative Mode]
+[03:27:03] [Server thread/INFO]: Luis512MC issued server command: /gamemode survival
+[03:27:03] [Server thread/INFO]: [Luis512MC: Set own game mode to Survival Mode]
+[03:32:10] [Server thread/INFO]: Luis512MC issued server command: /gamemode spectator
+[03:32:10] [Server thread/INFO]: [Luis512MC: Set own game mode to Spectator Mode]
+[03:32:34] [Server thread/WARN]: Luis512MC moved too quickly! -6.196303527096404,0.0,15.540603669519228
+[03:33:43] [Server thread/INFO]: Luis512MC has made the advancement [A Terrible Fortress]
+[03:34:17] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username CrashBlock73577
+[03:34:17] [localSession-7-2/INFO]: [Geyser-Spigot] CrashBlock73577 (logged in as: CrashBlock73577) has connected to the Java server
+[03:34:18] [Server thread/INFO]: [floodgate] Floodgate player logged in as .CrashBlock73577 joined (UUID: 00000000-0000-0000-0009-01f00bc69dfd)
+[03:34:18] [Server thread/INFO]: .CrashBlock73577 joined the game
+[03:34:18] [Server thread/INFO]: .CrashBlock73577[/127.0.0.1:0] logged in with entity id 3268 at ([world]1706.2003, 128.0, -691.2332)
+[03:35:48] [Server thread/WARN]: Luis512MC moved too quickly! -0.1070781170344901,0.0,17.681237559561083
+[03:35:56] [Server thread/INFO]: Luis512MC issued server command: /gamemode adventure
+[03:35:56] [Server thread/INFO]: [Luis512MC: Set own game mode to Adventure Mode]
+[03:36:03] [Async Chat Thread - #1/INFO]: [Not Secure] <Luis512MC> oye
+[03:36:08] [Async Chat Thread - #1/INFO]: [Not Secure] <Luis512MC> no se que tecla es
+[03:36:10] [Async Chat Thread - #1/INFO]: [Not Secure] <.CrashBlock73577> ?
+[03:36:15] [Async Chat Thread - #1/INFO]: [Not Secure] <Luis512MC> pero me esta arruinando la vida
+[03:36:23] [Async Chat Thread - #1/INFO]: [Not Secure] <Luis512MC> cuando veo estoy en modo aventura
+[03:36:28] [Async Chat Thread - #0/INFO]: [Not Secure] <Luis512MC> .__________.
+[03:36:56] [Async Chat Thread - #0/INFO]: [Not Secure] <Luis512MC> fui a la mina
+[03:37:13] [Async Chat Thread - #0/INFO]: [Not Secure] <Luis512MC> y solo encontré dos minerales
+[03:37:53] [Async Chat Thread - #0/INFO]: [Not Secure] <Luis512MC> regresé de la mina
+[03:38:05] [Server thread/INFO]: Luis512MC lost connection: Timed out
+[03:38:05] [Server thread/INFO]: Luis512MC left the game
+[03:38:17] [User Authenticator #1/INFO]: UUID of player Luis512MC is 5481e4e4-6be3-3172-8677-4830fb8a2f43
+[03:38:19] [Server thread/INFO]: Luis512MC joined the game
+[03:38:19] [Server thread/INFO]: Luis512MC[/127.48.121.197:60947] logged in with entity id 4459 at ([world]1706.2404053212833, 128.0, -694.8416743678983)
+[03:38:58] [Server thread/INFO]: Luis512MC lost connection: Timed out
+[03:38:58] [Server thread/INFO]: Luis512MC left the game
+[03:39:16] [User Authenticator #1/INFO]: UUID of player Luis512MC is 5481e4e4-6be3-3172-8677-4830fb8a2f43
+[03:39:17] [Server thread/INFO]: Luis512MC joined the game
+[03:39:17] [Server thread/INFO]: Luis512MC[/127.48.121.197:35021] logged in with entity id 4594 at ([world]1710.4590612644588, 130.0, -706.4352645500701)
+[03:39:23] [Server thread/INFO]: Luis512MC issued server command: /realregions
+[03:39:48] [Server thread/INFO]: Luis512MC lost connection: Timed out
+[03:39:48] [Server thread/INFO]: Luis512MC left the game
+[03:39:58] [User Authenticator #1/INFO]: UUID of player Luis512MC is 5481e4e4-6be3-3172-8677-4830fb8a2f43
+[03:39:59] [Server thread/INFO]: Luis512MC joined the game
+[03:39:59] [Server thread/INFO]: Luis512MC[/127.48.121.197:52639] logged in with entity id 4705 at ([world]1710.4590612644588, 130.0, -706.4352645500701)
+[03:40:09] [Server thread/INFO]: Luis512MC issued server command: /realregions
+[03:42:10] [Async Chat Thread - #2/INFO]: [Not Secure] <Luis512MC> huevo
+[03:42:11] [Async Chat Thread - #2/INFO]: [Not Secure] <Luis512MC> 1
+[03:42:15] [Async Chat Thread - #2/INFO]: [Not Secure] <Luis512MC> 2
+[03:42:17] [Async Chat Thread - #2/INFO]: [Not Secure] <Luis512MC> yyyyyyyyyy
+[03:42:21] [Async Chat Thread - #2/INFO]: [Not Secure] <.CrashBlock73577> 1 que?
+[03:42:41] [Async Chat Thread - #2/INFO]: [Not Secure] <Luis512MC> 3
+[03:43:44] [Async Chat Thread - #4/INFO]: [Not Secure] <Luis512MC> estoy en aventura
+[03:43:46] [Async Chat Thread - #4/INFO]: [Not Secure] <Luis512MC> xd
+[03:43:50] [Server thread/INFO]: Luis512MC issued server command: /gamemode survival
+[03:43:50] [Server thread/INFO]: [Luis512MC: Set own game mode to Survival Mode]
+[03:43:57] [Async Chat Thread - #4/INFO]: [Not Secure] <Luis512MC> 1
+[03:43:58] [Async Chat Thread - #4/INFO]: [Not Secure] <Luis512MC> 2
+[03:44:05] [Async Chat Thread - #4/INFO]: [Not Secure] <Luis512MC> y
+[03:44:36] [Async Chat Thread - #4/INFO]: [Not Secure] <Luis512MC> 3
+[03:44:52] [Async Chat Thread - #4/INFO]: [Not Secure] <Luis512MC> hueeeeevoooooooo
+[03:50:39] [Async Chat Thread - #6/INFO]: [Not Secure] <Luis512MC> te llevaste un caballo?
+[03:50:47] [Async Chat Thread - #6/INFO]: [Not Secure] <.CrashBlock73577> no
+[03:50:50] [Server thread/WARN]: Skeleton Horse (vehicle of Luis512MC) moved wrongly! 0.2547732000746237
+[03:50:51] [Server thread/WARN]: Skeleton Horse (vehicle of Luis512MC) moved wrongly! 0.28139102594752785
+[03:50:51] [Server thread/WARN]: Skeleton Horse (vehicle of Luis512MC) moved wrongly! 0.6297570872085316
+[03:50:51] [Server thread/WARN]: Skeleton Horse (vehicle of Luis512MC) moved wrongly! 1.0148957353096244
+[03:50:51] [Server thread/WARN]: Skeleton Horse (vehicle of Luis512MC) moved wrongly! 1.4228266875262339
+[03:50:51] [Server thread/WARN]: Skeleton Horse (vehicle of Luis512MC) moved wrongly! 1.8386843590541886
+[03:51:05] [Async Chat Thread - #6/INFO]: [Not Secure] <Luis512MC> oh no
+[03:52:42] [Async Chat Thread - #8/INFO]: [Not Secure] <Luis512MC> creo que escapó bastante lejos
+[03:52:53] [Server thread/WARN]: Skeleton Horse (vehicle of Luis512MC) moved wrongly! 0.2835120251244234
+[03:52:53] [Server thread/WARN]: Skeleton Horse (vehicle of Luis512MC) moved wrongly! 0.6049286979056205
+[03:52:53] [Server thread/WARN]: Skeleton Horse (vehicle of Luis512MC) moved wrongly! 0.9299368517754374
+[03:52:53] [Server thread/WARN]: Skeleton Horse (vehicle of Luis512MC) moved wrongly! 0.25493420295413216
+[03:52:53] [Server thread/WARN]: Skeleton Horse (vehicle of Luis512MC) moved wrongly! 0.5799257738281085
+[03:52:53] [Server thread/WARN]: Skeleton Horse (vehicle of Luis512MC) moved wrongly! 0.9049142517764039
+[03:54:56] [Server thread/WARN]: Skeleton Horse (vehicle of Luis512MC) moved wrongly! 0.26662224679216706
+[03:54:56] [Server thread/WARN]: Skeleton Horse (vehicle of Luis512MC) moved wrongly! 0.28922408019070645
+[03:54:56] [Server thread/WARN]: Skeleton Horse (vehicle of Luis512MC) moved wrongly! 0.31258257554623015
+[03:54:57] [Server thread/WARN]: Skeleton Horse (vehicle of Luis512MC) moved wrongly! 0.335958829738388
+[03:54:57] [Server thread/WARN]: Skeleton Horse (vehicle of Luis512MC) moved wrongly! 0.2565216051373227
+[03:54:57] [Server thread/WARN]: Skeleton Horse (vehicle of Luis512MC) moved wrongly! 7.549735478500452
+[03:54:57] [Server thread/WARN]: Skeleton Horse (vehicle of Luis512MC) moved wrongly! 7.12917269872321
+[03:54:57] [Server thread/WARN]: Skeleton Horse (vehicle of Luis512MC) moved wrongly! 6.708609918764182
+[03:54:57] [Server thread/WARN]: Skeleton Horse (vehicle of Luis512MC) moved wrongly! 6.288047138707952
+[03:54:57] [Server thread/WARN]: Skeleton Horse (vehicle of Luis512MC) moved wrongly! 5.867484358599654
+[03:54:57] [Server thread/WARN]: Skeleton Horse (vehicle of Luis512MC) moved wrongly! 5.4469215784635026
+[03:54:57] [Server thread/WARN]: Skeleton Horse (vehicle of Luis512MC) moved wrongly! 5.026358798312458
+[03:54:57] [Server thread/WARN]: Skeleton Horse (vehicle of Luis512MC) moved wrongly! 4.605744089393056
+[03:54:57] [Server thread/WARN]: Skeleton Horse (vehicle of Luis512MC) moved wrongly! 5.027806894076093
+[03:54:57] [Server thread/WARN]: Skeleton Horse (vehicle of Luis512MC) moved wrongly! 4.606765149302305
+[03:54:57] [Server thread/WARN]: Skeleton Horse (vehicle of Luis512MC) moved wrongly! 4.186033177841068
+[03:54:57] [Server thread/WARN]: Skeleton Horse (vehicle of Luis512MC) moved wrongly! 3.7655877336994763
+[03:54:57] [Server thread/WARN]: Skeleton Horse (vehicle of Luis512MC) moved wrongly! 3.345295604613966
+[03:54:57] [Server thread/WARN]: Skeleton Horse (vehicle of Luis512MC) moved wrongly! 2.9249647375618224
+[03:54:57] [Server thread/WARN]: Skeleton Horse (vehicle of Luis512MC) moved wrongly! 2.5044641998565567
+[03:54:57] [Server thread/WARN]: Skeleton Horse (vehicle of Luis512MC) moved wrongly! 2.0839517483998407
+[03:54:57] [Server thread/WARN]: Skeleton Horse (vehicle of Luis512MC) moved wrongly! 1.6631708691406857
+[03:54:58] [Server thread/WARN]: Skeleton Horse (vehicle of Luis512MC) moved wrongly! 1.2420469857873968
+[03:54:58] [Server thread/WARN]: Skeleton Horse (vehicle of Luis512MC) moved wrongly! 0.8207127447373068
+[03:54:58] [Server thread/WARN]: Skeleton Horse (vehicle of Luis512MC) moved wrongly! 0.39927628449981967
+[03:54:58] [Server thread/WARN]: Skeleton Horse (vehicle of Luis512MC) moved wrongly! 0.28272057051697175
+[03:54:58] [Server thread/WARN]: Skeleton Horse (vehicle of Luis512MC) moved wrongly! 0.3117542240961484
+[03:54:59] [Server thread/WARN]: Skeleton Horse (vehicle of Luis512MC) moved wrongly! 0.39024844008690707
+[03:54:59] [Server thread/WARN]: Skeleton Horse (vehicle of Luis512MC) moved wrongly! 0.40014169724577187
+[03:54:59] [Server thread/WARN]: Skeleton Horse (vehicle of Luis512MC) moved wrongly! 0.4054353819012704
+[03:54:59] [Server thread/WARN]: Skeleton Horse (vehicle of Luis512MC) moved wrongly! 0.4054353819012704
+[03:54:59] [Server thread/WARN]: Skeleton Horse (vehicle of Luis512MC) moved wrongly! 0.4054353819012704
+[03:54:59] [Server thread/WARN]: Skeleton Horse (vehicle of Luis512MC) moved wrongly! 0.4054353819012704
+[03:54:59] [Server thread/WARN]: Skeleton Horse (vehicle of Luis512MC) moved wrongly! 0.4054353819012704
+[03:54:59] [Server thread/WARN]: Skeleton Horse (vehicle of Luis512MC) moved wrongly! 0.4054353819012704
+[03:55:07] [Async Chat Thread - #10/INFO]: [Not Secure] <Luis512MC> quizas y se fue al nether
+[03:55:16] [Server thread/WARN]: Skeleton Horse (vehicle of Luis512MC) moved wrongly! 0.2557815729576305
+[03:55:17] [Server thread/WARN]: Skeleton Horse (vehicle of Luis512MC) moved wrongly! 0.2741507437471
+[03:55:17] [Server thread/WARN]: Skeleton Horse (vehicle of Luis512MC) moved wrongly! 2.052701015398725
+[03:55:17] [Server thread/WARN]: Skeleton Horse (vehicle of Luis512MC) moved wrongly! 1.6312515330702126
+[03:55:17] [Server thread/WARN]: Skeleton Horse (vehicle of Luis512MC) moved wrongly! 1.2097550684388807
+[03:55:17] [Server thread/WARN]: Skeleton Horse (vehicle of Luis512MC) moved wrongly! 0.3033908894159367
+[03:55:47] [Async Chat Thread - #10/INFO]: [Not Secure] <Luis512MC> ya lo encontré
+[03:55:56] [Async Chat Thread - #10/INFO]: [Not Secure] <Luis512MC> el muy pendejo se metió con las vacas
+[03:56:08] [Async Chat Thread - #10/INFO]: [Not Secure] <.CrashBlock73577> jajajajaj
+[03:58:06] [Server thread/INFO]: .CrashBlock73577 was slain by Zombie
+[03:58:10] [Async Chat Thread - #12/INFO]: [Not Secure] <Luis512MC> pendejo
+[03:58:23] [Async Chat Thread - #12/INFO]: [Not Secure] <.CrashBlock73577> a la
+[04:01:37] [Server thread/INFO]: [AngelChest] .CrashBlock73577 opened the AngelChest of .CrashBlock73577 at Location{world=CraftWorld{name=world},x=1836.0,y=113.0,z=-436.0,pitch=0.0,yaw=0.0}
+[04:02:56] [Async Chat Thread - #14/INFO]: [Not Secure] <Luis512MC> no puedo
+[04:03:31] [Async Chat Thread - #14/INFO]: [Not Secure] <Luis512MC> la granja de hierro no estaba cargando
+[04:03:38] [Async Chat Thread - #14/INFO]: [Not Secure] <Luis512MC> entonces solo genero poco
+[04:03:49] [Async Chat Thread - #14/INFO]: [Not Secure] <Luis512MC> y ahorita llego y está genere y genere
+[04:23:17] [Server thread/WARN]: .CrashBlock73577 moved wrongly!
+[04:25:39] [Server thread/INFO]: .CrashBlock73577 fell from a high place
+[04:39:34] [Server thread/INFO]: .CrashBlock73577 was blown up by Creeper
+[04:39:39] [localSession-7-2/INFO]: [Geyser-Spigot] CrashBlock73577 has disconnected from the Java server because of Bedrock client timed out
+[04:39:39] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .CrashBlock73577 disconnected
+[04:39:39] [Server thread/INFO]: .CrashBlock73577 lost connection: Disconnected
+[04:39:39] [Server thread/INFO]: .CrashBlock73577 left the game
+[04:41:56] [Server thread/INFO]: Luis512MC issued server command: /gamemode creative
+[04:41:56] [Server thread/INFO]: [Luis512MC: Set own game mode to Creative Mode]
+[04:42:03] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username CrashBlock73577
+[04:42:03] [localSession-7-3/INFO]: [Geyser-Spigot] CrashBlock73577 (logged in as: CrashBlock73577) has connected to the Java server
+[04:42:03] [Server thread/INFO]: [floodgate] Floodgate player logged in as .CrashBlock73577 joined (UUID: 00000000-0000-0000-0009-01f00bc69dfd)
+[04:42:04] [Server thread/INFO]: .CrashBlock73577 joined the game
+[04:42:04] [Server thread/INFO]: .CrashBlock73577[/127.0.0.1:0] logged in with entity id 22727 at ([world]1762.9847, 80.79672, -373.27106)
+[04:43:45] [Server thread/INFO]: .CrashBlock73577 hit the ground too hard
+[04:45:54] [Server thread/INFO]: .CrashBlock73577 was slain by Enderman
+[04:55:58] [Server thread/INFO]: Luis512MC issued server command: /gamemode adventure
+[04:55:58] [Server thread/INFO]: [Luis512MC: Set own game mode to Adventure Mode]
+[04:55:59] [Server thread/WARN]: .CrashBlock73577 moved wrongly!
+[04:55:59] [Server thread/WARN]: .CrashBlock73577 moved wrongly!
+[04:56:01] [Server thread/INFO]: Luis512MC issued server command: /gamemode survival
+[04:56:01] [Server thread/INFO]: [Luis512MC: Set own game mode to Survival Mode]
+[04:56:40] [Server thread/INFO]: Luis512MC was burned to a crisp while fighting Blaze
+[04:56:44] [Server thread/INFO]: Luis512MC issued server command: /actp 1
+[04:57:49] [Server thread/INFO]: Luis512MC has made the advancement [Into Fire]
+[04:58:08] [Server thread/INFO]: Luis512MC was burned to a crisp while fighting Blaze
+[04:58:12] [Server thread/INFO]: Luis512MC issued server command: /actp 1
+[04:58:14] [Server thread/INFO]: [AngelChest] Luis512MC opened the AngelChest of Luis512MC at Location{world=CraftWorld{name=world_nether},x=204.0,y=63.0,z=-256.0,pitch=0.0,yaw=0.0}
+[04:58:16] [Server thread/INFO]: [AngelChest] Luis512MC opened the AngelChest of Luis512MC at Location{world=CraftWorld{name=world_nether},x=204.0,y=63.0,z=-256.0,pitch=0.0,yaw=0.0}
+[04:58:21] [Server thread/INFO]: [AngelChest] Luis512MC opened the AngelChest of Luis512MC at Location{world=CraftWorld{name=world_nether},x=204.0,y=63.0,z=-256.0,pitch=0.0,yaw=0.0}
+[04:58:59] [Server thread/INFO]: Luis512MC was burned to a crisp while fighting Blaze
+[04:59:04] [Server thread/INFO]: Luis512MC issued server command: /actp 1
+[05:03:54] [Server thread/INFO]: Luis512MC was fireballed by Blaze
+[05:03:58] [Server thread/INFO]: Luis512MC issued server command: /actp 1
+[05:07:40] [Server thread/INFO]: .CrashBlock73577 fell from a high place
+[05:08:09] [Server thread/INFO]: Luis512MC was fireballed by Blaze
+[05:08:13] [Server thread/INFO]: Luis512MC issued server command: /actp 1
+[05:08:50] [Async Chat Thread - #16/INFO]: [Not Secure] <.CrashBlock73577> memo
+[05:08:56] [Async Chat Thread - #16/INFO]: [Not Secure] <Luis512MC> a mimir
+[05:08:59] [Async Chat Thread - #16/INFO]: [Not Secure] <.CrashBlock73577> traeme contigo
+[05:09:04] [Async Chat Thread - #16/INFO]: [Not Secure] <Luis512MC> nop
+[05:09:11] [Async Chat Thread - #16/INFO]: [Not Secure] <.CrashBlock73577> noooo
+[05:09:14] [Async Chat Thread - #16/INFO]: [Not Secure] <Luis512MC> a duras penas puedo yo
+[05:09:24] [Async Chat Thread - #17/INFO]: [Not Secure] <.CrashBlock73577> perdere mis cosas
+[05:09:51] [Async Chat Thread - #17/INFO]: [Not Secure] <Luis512MC> en donde andabas?
+[05:10:00] [Async Chat Thread - #17/INFO]: [Not Secure] <.CrashBlock73577> en la aldea
+[05:10:09] [Async Chat Thread - #17/INFO]: [Not Secure] <.CrashBlock73577> haciendo la casa
+[05:10:20] [Async Chat Thread - #17/INFO]: [Not Secure] <Luis512MC> no estoy ahi
+[05:10:23] [Async Chat Thread - #17/INFO]: [Not Secure] <.CrashBlock73577> pero apareci en el spawn
+[05:10:29] [Async Chat Thread - #17/INFO]: [Not Secure] <Luis512MC> XD
+[05:10:41] [Async Chat Thread - #17/INFO]: [Not Secure] <.CrashBlock73577> por que quite mi cama XD
+[05:11:08] [Server thread/INFO]: Luis512MC issued server command: /tp .CrashBlock73577 Luis512MC
+[05:11:08] [Server thread/INFO]: [Luis512MC: Teleported .CrashBlock73577 to Luis512MC]
+[05:12:48] [Async Chat Thread - #18/INFO]: [Not Secure] <Luis512MC> bro
+[05:12:57] [Async Chat Thread - #18/INFO]: [Not Secure] <Luis512MC> mañana me despierto temprano
+[05:13:03] [Async Chat Thread - #18/INFO]: [Not Secure] <Luis512MC> voy a cerrar el server
+[05:13:08] [Async Chat Thread - #18/INFO]: [Not Secure] <.CrashBlock73577> ok
+[05:13:23] [localSession-7-3/INFO]: [Geyser-Spigot] CrashBlock73577 has disconnected from the Java server because of Bedrock client disconnected
+[05:13:23] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .CrashBlock73577 disconnected
+[05:13:23] [Server thread/INFO]: .CrashBlock73577 lost connection: Disconnected
+[05:13:23] [Server thread/INFO]: .CrashBlock73577 left the game
+[05:17:07] [Server thread/INFO]: Luis512MC lost connection: Disconnected
+[05:17:07] [Server thread/INFO]: Luis512MC left the game
+[05:17:17] [Server thread/INFO]: Stopping the server
+[05:17:17] [Server thread/INFO]: Stopping server
+[05:17:17] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.5.0
+[05:17:17] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.5.1-SNAPSHOT
+[05:17:17] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[05:17:17] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[05:17:17] [Server thread/INFO]: [RealRegions] Disabling RealRegions v0.7.4
+[05:17:17] [Server thread/INFO]: [AngelChest] Disabling AngelChest v13.9.0
+[05:17:17] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.2.0
+[05:17:17] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[05:17:17] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
+[05:17:17] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.3.9-beta-01+e8aa544
+[05:17:17] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[05:17:17] [Server thread/INFO]: Saving players
+[05:17:17] [Server thread/INFO]: Saving worlds
+[05:17:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05:17:17] [Server thread/INFO]: [ca.spottedleaf.moonrise.patches.chunk_system.scheduling.ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[05:17:17] [Server thread/INFO]: [ca.spottedleaf.moonrise.patches.chunk_system.scheduling.ChunkHolderManager] Halted chunk system for world 'world'
+[05:17:17] [Server thread/INFO]: [ca.spottedleaf.moonrise.patches.chunk_system.scheduling.ChunkHolderManager] Saving all chunkholders for world 'world'
+[05:17:17] [WebSocketConnectReadThread-99/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[05:17:17] [Server thread/INFO]: [ca.spottedleaf.moonrise.patches.chunk_system.scheduling.ChunkHolderManager] Saved 0 block chunks, 83 entity chunks, 0 poi chunks in world 'world' in 0.03s
+[05:17:17] [Server thread/INFO]: [ca.spottedleaf.moonrise.patches.chunk_system.scheduling.ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[05:17:17] [Server thread/INFO]: [ca.spottedleaf.moonrise.patches.chunk_system.scheduling.ChunkHolderManager] Halted I/O scheduler for world 'world'
+[05:17:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[05:17:17] [Server thread/INFO]: [ca.spottedleaf.moonrise.patches.chunk_system.scheduling.ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[05:17:17] [Server thread/INFO]: [ca.spottedleaf.moonrise.patches.chunk_system.scheduling.ChunkHolderManager] Halted chunk system for world 'world_nether'
+[05:17:17] [Server thread/INFO]: [ca.spottedleaf.moonrise.patches.chunk_system.scheduling.ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[05:17:17] [Server thread/INFO]: [ca.spottedleaf.moonrise.patches.chunk_system.scheduling.ChunkHolderManager] Saved 86 block chunks, 42 entity chunks, 0 poi chunks in world 'world_nether' in 0.08s
+[05:17:17] [Server thread/INFO]: [ca.spottedleaf.moonrise.patches.chunk_system.scheduling.ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[05:17:17] [Server thread/INFO]: [ca.spottedleaf.moonrise.patches.chunk_system.scheduling.ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[05:17:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[05:17:17] [Server thread/INFO]: [ca.spottedleaf.moonrise.patches.chunk_system.scheduling.ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[05:17:17] [Server thread/INFO]: [ca.spottedleaf.moonrise.patches.chunk_system.scheduling.ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[05:17:17] [Server thread/INFO]: [ca.spottedleaf.moonrise.patches.chunk_system.scheduling.ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[05:17:17] [Server thread/INFO]: [ca.spottedleaf.moonrise.patches.chunk_system.scheduling.ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[05:17:17] [Server thread/INFO]: [ca.spottedleaf.moonrise.patches.chunk_system.scheduling.ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[05:17:17] [Server thread/INFO]: [ca.spottedleaf.moonrise.patches.chunk_system.scheduling.ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[05:17:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05:17:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:17:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:17:17] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[05:17:17] [Server thread/INFO]: Waiting for I/O tasks to complete...
+[05:17:17] [Server thread/INFO]: All I/O tasks to complete
+[05:17:17] [Server thread/INFO]: [ca.spottedleaf.moonrise.common.util.MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[05:17:17] [Server thread/INFO]: [ca.spottedleaf.moonrise.common.util.MoonriseCommon] Awaiting termination of I/O pool for up to 60s...

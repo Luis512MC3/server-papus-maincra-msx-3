@@ -148,3 +148,34 @@
 [03:04:39] [Server thread/INFO]: .CrashBlock73577[/127.0.0.1:0] logged in with entity id 4865 at ([world]1720.8619, 72.0, -346.55807)
 [03:06:02] [Server thread/INFO]: Luis512MC issued server command: /gamemode survival
 [03:06:02] [Server thread/INFO]: [Luis512MC: Set own game mode to Survival Mode]
+[03:11:37] [Server thread/INFO]: Luis512MC issued server command: /gamemode creative
+[03:11:37] [Server thread/INFO]: [Luis512MC: Set own game mode to Creative Mode]
+[03:12:34] [Server thread/INFO]: .CrashBlock73577 was killed by Witch using magic
+[03:12:57] [Server thread/INFO]: Luis512MC issued server command: /gamemode adventure
+[03:12:57] [Server thread/INFO]: [Luis512MC: Set own game mode to Adventure Mode]
+[03:13:00] [Server thread/INFO]: Luis512MC issued server command: /gamemode spectator
+[03:13:00] [Server thread/INFO]: [Luis512MC: Set own game mode to Spectator Mode]
+[03:13:04] [Server thread/INFO]: Luis512MC issued server command: /gamemode adventure
+[03:13:04] [Server thread/INFO]: [Luis512MC: Set own game mode to Adventure Mode]
+[03:13:07] [Server thread/INFO]: Luis512MC issued server command: /gamemode survival
+[03:13:07] [Server thread/INFO]: [Luis512MC: Set own game mode to Survival Mode]
+[03:13:33] [Async Chat Thread - #0/INFO]: [Not Secure] <Luis512MC> oye
+[03:13:38] [Async Chat Thread - #0/INFO]: [Not Secure] <Luis512MC> donde fregados estas?
+[03:13:59] [Async Chat Thread - #0/INFO]: [Not Secure] <.CrashBlock73577> en la construcción
+[03:14:03] [Async Chat Thread - #0/INFO]: [Not Secure] <Luis512MC> donde
+[03:14:07] [Async Chat Thread - #0/INFO]: [Not Secure] <Luis512MC> en la barranca?
+[03:14:13] [Async Chat Thread - #1/INFO]: [Not Secure] <.CrashBlock73577> no
+[03:14:16] [Async Chat Thread - #1/INFO]: [Not Secure] <Luis512MC> ?
+[03:15:41] [Server thread/INFO]: .CrashBlock73577 was slain by Zombie
+[03:15:46] [Async Chat Thread - #2/INFO]: [Not Secure] <Luis512MC> no veo nada carajo
+[03:16:34] [Server thread/INFO]: Luis512MC issued server command: /tp Luis512MC .CrashBlock73577
+[03:16:34] [Server thread/INFO]: [Luis512MC: Teleported Luis512MC to .CrashBlock73577]
+[03:16:52] [Async Chat Thread - #4/INFO]: [Not Secure] <Luis512MC> para quien es la casa?
+[03:17:03] [Async Chat Thread - #4/INFO]: [Not Secure] <.CrashBlock73577> para los dos
+[03:17:12] [Async Chat Thread - #4/INFO]: [Not Secure] <Luis512MC> y la de arriba?
+[03:17:25] [Async Chat Thread - #4/INFO]: [Not Secure] <.CrashBlock73577> sera un almacenamiento
+[03:17:31] [Async Chat Thread - #4/INFO]: [Not Secure] <Luis512MC> NOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+[03:18:04] [Async Chat Thread - #4/INFO]: [Not Secure] <Luis512MC> ojala te maten
+[03:18:22] [Server thread/INFO]: .CrashBlock73577 was slain by Zombie
+[03:19:47] [Async Chat Thread - #6/INFO]: [Not Secure] <.CrashBlock73577> y eso por que?
+[03:19:55] [Async Chat Thread - #6/INFO]: [Not Secure] <Luis512MC> ya acabe mi tren

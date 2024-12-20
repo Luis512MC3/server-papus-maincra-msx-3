@@ -203,3 +203,13 @@
 [03:25:11] [Async Chat Thread - #8/INFO]: [Not Secure] <Luis512MC> mi basurero
 [03:25:34] [Async Chat Thread - #8/INFO]: [Not Secure] <Luis512MC> bueno mis cultivos aun se salvan, es bastante grande
 [03:26:07] [Async Chat Thread - #9/INFO]: [Not Secure] <Luis512MC> en la vida te dejo hacer la casa de nuevo
+[03:35:49] [localSession-7-2/INFO]: [Geyser-Spigot] CrashBlock73577 has disconnected from the Java server because of Bedrock client timed out
+[03:35:49] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .CrashBlock73577 disconnected
+[03:35:49] [Server thread/INFO]: .CrashBlock73577 lost connection: Disconnected
+[03:35:49] [Server thread/INFO]: .CrashBlock73577 left the game
+[03:37:40] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username CrashBlock73577
+[03:37:40] [localSession-7-3/INFO]: [Geyser-Spigot] CrashBlock73577 (logged in as: CrashBlock73577) has connected to the Java server
+[03:37:41] [Server thread/INFO]: [floodgate] Floodgate player logged in as .CrashBlock73577 joined (UUID: 00000000-0000-0000-0009-01f00bc69dfd)
+[03:37:41] [Server thread/INFO]: .CrashBlock73577 joined the game
+[03:37:41] [Server thread/INFO]: .CrashBlock73577[/127.0.0.1:0] logged in with entity id 14436 at ([world]1729.841, 71.0, -343.69999)
+[03:38:24] [Server thread/INFO]: Luis512MC issued server command: /realregions

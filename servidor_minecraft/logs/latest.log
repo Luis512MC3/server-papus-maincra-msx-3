@@ -218,3 +218,17 @@
 [03:30:23] [Server thread/INFO]: Luis512MC[/127.48.121.197:57059] logged in with entity id 15212 at ([world]590.6504244903908, 85.38004539050078, -469.9926862914333)
 [03:34:01] [Async Chat Thread - #2/INFO]: [Not Secure] <Luis512MC> 588/3 = 73.5
 [03:34:42] [Async Chat Thread - #2/INFO]: [Not Secure] <Luis512MC> -57.875
+[03:35:59] [localSession-7-2/INFO]: [Geyser-Spigot] CrashBlock73577 has disconnected from the Java server because of Bedrock client timed out
+[03:35:59] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .CrashBlock73577 disconnected
+[03:35:59] [Server thread/INFO]: .CrashBlock73577 lost connection: Disconnected
+[03:35:59] [Server thread/INFO]: .CrashBlock73577 left the game
+[03:37:41] [Server thread/INFO]: Luis512MC issued server command: /gamemode creative
+[03:37:41] [Server thread/INFO]: [Luis512MC: Set own game mode to Creative Mode]
+[03:38:34] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username CrashBlock73577
+[03:38:34] [localSession-7-3/INFO]: [Geyser-Spigot] CrashBlock73577 (logged in as: CrashBlock73577) has connected to the Java server
+[03:38:34] [Server thread/INFO]: [floodgate] Floodgate player logged in as .CrashBlock73577 joined (UUID: 00000000-0000-0000-0009-01f00bc69dfd)
+[03:38:34] [Server thread/INFO]: .CrashBlock73577 joined the game
+[03:38:34] [Server thread/INFO]: .CrashBlock73577[/127.0.0.1:0] logged in with entity id 16959 at ([world]1768.28, 79.18947263108704, -369.39893)
+[03:40:53] [Async Chat Thread - #4/INFO]: [Not Secure] <.CrashBlock73577> INVASION
+[03:43:14] [Server thread/INFO]: .CrashBlock73577 was slain by Vindicator
+[03:43:46] [Server thread/INFO]: .CrashBlock73577 was slain by Vindicator

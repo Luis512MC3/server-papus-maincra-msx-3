@@ -153,3 +153,15 @@
 [02:30:20] [Server thread/WARN]: Luis512MC moved too quickly! 4.833256868715807,0.6044241013266856,8.79974063314694
 [02:30:46] [Server thread/INFO]: Luis512MC fell from a high place
 [02:30:51] [Server thread/INFO]: Luis512MC issued server command: /actp 1
+[02:38:42] [Server thread/INFO]: Luis512MC issued server command: /gamemode creative
+[02:38:42] [Server thread/INFO]: [Luis512MC: Set own game mode to Creative Mode]
+[02:38:52] [Server thread/INFO]: Luis512MC issued server command: /gamemode survival
+[02:38:52] [Server thread/INFO]: [Luis512MC: Set own game mode to Survival Mode]
+[02:39:53] [Server thread/INFO]: Luis512MC issued server command: /gamemode creative
+[02:39:53] [Server thread/INFO]: [Luis512MC: Set own game mode to Creative Mode]
+[02:40:23] [Server thread/INFO]: Luis512MC issued server command: /gamemode survival
+[02:40:23] [Server thread/INFO]: [Luis512MC: Set own game mode to Survival Mode]
+[02:42:41] [Server thread/INFO]: Luis512MC issued server command: /gamemode creative
+[02:42:41] [Server thread/INFO]: [Luis512MC: Set own game mode to Creative Mode]
+[02:42:52] [Server thread/INFO]: Luis512MC issued server command: /gamemode survival
+[02:42:52] [Server thread/INFO]: [Luis512MC: Set own game mode to Survival Mode]

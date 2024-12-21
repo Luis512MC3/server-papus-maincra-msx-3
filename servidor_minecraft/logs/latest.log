@@ -254,3 +254,20 @@
 [03:55:01] [Async Chat Thread - #8/INFO]: [Not Secure] <.CrashBlock73577> me imaginaba aqui cerca
 [03:55:10] [Async Chat Thread - #8/INFO]: [Not Secure] <Luis512MC> allí me escape
 [03:55:14] [Async Chat Thread - #8/INFO]: [Not Secure] <Luis512MC> en lo que buscabas
+[03:56:36] [Server thread/INFO]: Luis512MC issued server command: /realregions:realregions
+[03:59:28] [Server thread/INFO]: Luis512MC issued server command: /realregions:realregions
+[03:59:44] [Server thread/INFO]: Luis512MC issued server command: /gamemode creative
+[03:59:44] [Server thread/INFO]: [Luis512MC: Set own game mode to Creative Mode]
+[04:00:57] [Server thread/INFO]: Luis512MC issued server command: //wand
+[04:01:16] [Server thread/INFO]: Luis512MC issued server command: //wand
+[04:01:32] [Server thread/INFO]: Luis512MC issued server command: //copy
+[04:02:22] [Server thread/INFO]: Luis512MC issued server command: //paste
+[04:02:37] [Server thread/WARN]: Luis512MC moved too quickly! 0.7678255714799889,-69.2593693064791,2.7455648097050585
+[04:03:35] [localSession-7-3/INFO]: [Geyser-Spigot] CrashBlock73577 has disconnected from the Java server because of Bedrock client disconnected
+[04:03:35] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .CrashBlock73577 disconnected
+[04:03:35] [Server thread/INFO]: .CrashBlock73577 lost connection: Disconnected
+[04:03:35] [Server thread/INFO]: .CrashBlock73577 left the game
+[04:03:49] [Server thread/INFO]: Luis512MC issued server command: //paste
+[04:04:32] [Server thread/WARN]: Luis512MC moved too quickly! 13.959587066242875,0.0,-6.8490429087826215
+[04:05:10] [Server thread/INFO]: Luis512MC issued server command: /gamemode spectator
+[04:05:10] [Server thread/INFO]: [Luis512MC: Set own game mode to Spectator Mode]

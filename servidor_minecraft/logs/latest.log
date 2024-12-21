@@ -185,3 +185,16 @@
 [03:01:05] [Server thread/INFO]: [Luis512MC: Set own game mode to Creative Mode]
 [03:01:47] [Server thread/INFO]: Luis512MC issued server command: /gamemode survival
 [03:01:47] [Server thread/INFO]: [Luis512MC: Set own game mode to Survival Mode]
+[03:04:51] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username CrashBlock73577
+[03:04:51] [localSession-7-2/INFO]: [Geyser-Spigot] CrashBlock73577 (logged in as: CrashBlock73577) has connected to the Java server
+[03:04:52] [Server thread/INFO]: [floodgate] Floodgate player logged in as .CrashBlock73577 joined (UUID: 00000000-0000-0000-0009-01f00bc69dfd)
+[03:04:52] [Server thread/INFO]: .CrashBlock73577 joined the game
+[03:04:52] [Server thread/INFO]: .CrashBlock73577[/127.0.0.1:0] logged in with entity id 7567 at ([world]1705.3606, 128.0, -690.7209)
+[03:05:05] [Async Chat Thread - #0/INFO]: [Not Secure] <Luis512MC> ay nio
+[03:05:08] [Async Chat Thread - #0/INFO]: [Not Secure] <Luis512MC> nonon
+[03:05:20] [Async Chat Thread - #0/INFO]: [Not Secure] <Luis512MC> estoy terminando la minibase de mi gatita
+[03:11:56] [Server thread/INFO]: Luis512MC lost connection: Timed out
+[03:11:56] [Server thread/INFO]: Luis512MC left the game
+[03:12:45] [User Authenticator #1/INFO]: UUID of player Luis512MC is 5481e4e4-6be3-3172-8677-4830fb8a2f43
+[03:12:48] [Server thread/INFO]: Luis512MC joined the game
+[03:12:48] [Server thread/INFO]: Luis512MC[/127.48.121.197:39429] logged in with entity id 8733 at ([world]586.8254869015764, 251.0, -467.6464725511498)

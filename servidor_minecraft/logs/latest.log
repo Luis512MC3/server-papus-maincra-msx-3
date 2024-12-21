@@ -138,3 +138,11 @@
 [02:10:35] [Server thread/INFO]: Luis512MC joined the game
 [02:10:35] [Server thread/INFO]: Luis512MC[/127.48.121.197:41127] logged in with entity id 13 at ([world]590.2147315812009, 69.0, -465.7798202947952)
 [02:11:40] [Server thread/INFO]: Luis512MC issued server command: /realregions
+[02:14:17] [Server thread/INFO]: Luis512MC fell from a high place
+[02:14:25] [Server thread/INFO]: Luis512MC issued server command: /actp 1
+[02:21:47] [Server thread/INFO]: Luis512MC issued server command: /gamemode adventure
+[02:21:47] [Server thread/INFO]: [Luis512MC: Set own game mode to Adventure Mode]
+[02:21:50] [Server thread/INFO]: Luis512MC issued server command: /gamemode creative
+[02:21:50] [Server thread/INFO]: [Luis512MC: Set own game mode to Creative Mode]
+[02:22:48] [Server thread/INFO]: Luis512MC issued server command: /gamemode survival
+[02:22:48] [Server thread/INFO]: [Luis512MC: Set own game mode to Survival Mode]

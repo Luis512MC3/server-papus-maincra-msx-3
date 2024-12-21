@@ -198,3 +198,15 @@
 [03:12:45] [User Authenticator #1/INFO]: UUID of player Luis512MC is 5481e4e4-6be3-3172-8677-4830fb8a2f43
 [03:12:48] [Server thread/INFO]: Luis512MC joined the game
 [03:12:48] [Server thread/INFO]: Luis512MC[/127.48.121.197:39429] logged in with entity id 8733 at ([world]586.8254869015764, 251.0, -467.6464725511498)
+[03:15:35] [Server thread/INFO]: .CrashBlock73577 was slain by Zombie
+[03:15:58] [Server thread/WARN]: .CrashBlock73577 moved wrongly!
+[03:16:35] [Server thread/INFO]: Luis512MC lost connection: Timed out
+[03:16:35] [Server thread/INFO]: Luis512MC left the game
+[03:16:47] [User Authenticator #2/INFO]: UUID of player Luis512MC is 5481e4e4-6be3-3172-8677-4830fb8a2f43
+[03:16:49] [Server thread/INFO]: Luis512MC joined the game
+[03:16:49] [Server thread/INFO]: Luis512MC[/127.48.121.197:45001] logged in with entity id 10105 at ([world]557.0751191627511, 66.24813599859094, -499.0981282990726)
+[03:17:21] [Server thread/INFO]: Luis512MC lost connection: Timed out
+[03:17:21] [Server thread/INFO]: Luis512MC left the game
+[03:17:30] [User Authenticator #2/INFO]: UUID of player Luis512MC is 5481e4e4-6be3-3172-8677-4830fb8a2f43
+[03:17:32] [Server thread/INFO]: Luis512MC joined the game
+[03:17:32] [Server thread/INFO]: Luis512MC[/127.48.121.197:46111] logged in with entity id 10434 at ([world_nether]60.66318078252203, 73.0, -60.70946376391311)

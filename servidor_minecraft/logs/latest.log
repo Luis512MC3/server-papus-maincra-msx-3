@@ -183,3 +183,8 @@
 [05:04:26] [Server thread/INFO]: [Luis512MC: Set own game mode to Survival Mode]
 [05:23:16] [Server thread/INFO]: Luis512MC issued server command: /locate structure #minecraft:village
 [05:23:17] [Server thread/INFO]: Locating element #minecraft:village (minecraft:village_taiga) took 885 ms
+[05:27:30] [Server thread/INFO]: Luis512MC burned to death
+[05:27:45] [Server thread/INFO]: Luis512MC issued server command: /actp 1
+[05:31:37] [Server thread/INFO]: Luis512MC burned to death
+[05:31:45] [Server thread/INFO]: Luis512MC issued server command: /actp 1
+[05:32:34] [Server thread/INFO]: Luis512MC has made the advancement [The Cutest Predator]

@@ -149,3 +149,7 @@
 [03:12:58] [Server thread/INFO]: [Luis512MC: Set own game mode to Creative Mode]
 [03:14:01] [Server thread/INFO]: Luis512MC issued server command: /gamemode spectator
 [03:14:01] [Server thread/INFO]: [Luis512MC: Set own game mode to Spectator Mode]
+[03:14:03] [Server thread/INFO]: Luis512MC issued server command: /gamemode survival
+[03:14:03] [Server thread/INFO]: [Luis512MC: Set own game mode to Survival Mode]
+[03:15:33] [Server thread/INFO]: Luis512MC issued server command: /gamemode creative
+[03:15:33] [Server thread/INFO]: [Luis512MC: Set own game mode to Creative Mode]

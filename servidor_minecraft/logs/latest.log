@@ -153,3 +153,6 @@
 [03:14:03] [Server thread/INFO]: [Luis512MC: Set own game mode to Survival Mode]
 [03:15:33] [Server thread/INFO]: Luis512MC issued server command: /gamemode creative
 [03:15:33] [Server thread/INFO]: [Luis512MC: Set own game mode to Creative Mode]
+[03:36:00] [Server thread/INFO]: Luis512MC issued server command: /gamemode survival
+[03:36:00] [Server thread/INFO]: [Luis512MC: Set own game mode to Survival Mode]
+[03:38:37] [Server thread/WARN]: Luis512MC moved too quickly! -8.329840853375417,-5.491297148917496,0.9692290318303307

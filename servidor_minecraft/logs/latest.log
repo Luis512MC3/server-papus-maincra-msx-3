@@ -133,3 +133,19 @@
 [03:00:01] [Server thread/INFO]: Luis512MC joined the game
 [03:00:01] [Server thread/INFO]: Luis512MC[/127.63.10.228:53281] logged in with entity id 13 at ([world]512.336888054478, 67.0, -286.06635105765616)
 [03:03:04] [Server thread/WARN]: Luis512MC moved too quickly! -0.09479397721634086,10.125000401078154,0.0032702354710920645
+[03:06:03] [Server thread/WARN]: Luis512MC moved too quickly! 19.752895596486155,4.594601731249483,-8.570302614372963
+[03:08:06] [Server thread/WARN]: Luis512MC moved too quickly! -11.455871645761135,0.0,-1.714945898668077
+[03:10:55] [Server thread/INFO]: Luis512MC issued server command: /gamemode spectator
+[03:10:55] [Server thread/INFO]: [Luis512MC: Set own game mode to Spectator Mode]
+[03:10:57] [Server thread/INFO]: Luis512MC issued server command: /gamemode creative
+[03:10:57] [Server thread/INFO]: [Luis512MC: Set own game mode to Creative Mode]
+[03:11:07] [Server thread/INFO]: Luis512MC issued server command: /gamemode spectator
+[03:11:07] [Server thread/INFO]: [Luis512MC: Set own game mode to Spectator Mode]
+[03:11:08] [Server thread/INFO]: Luis512MC issued server command: /gamemode survival
+[03:11:08] [Server thread/INFO]: [Luis512MC: Set own game mode to Survival Mode]
+[03:12:48] [Server thread/INFO]: Luis512MC issued server command: /gamemode spectator
+[03:12:48] [Server thread/INFO]: [Luis512MC: Set own game mode to Spectator Mode]
+[03:12:58] [Server thread/INFO]: Luis512MC issued server command: /gamemode creative
+[03:12:58] [Server thread/INFO]: [Luis512MC: Set own game mode to Creative Mode]
+[03:14:01] [Server thread/INFO]: Luis512MC issued server command: /gamemode spectator
+[03:14:01] [Server thread/INFO]: [Luis512MC: Set own game mode to Spectator Mode]

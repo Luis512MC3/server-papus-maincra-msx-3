@@ -181,3 +181,5 @@
 [05:04:15] [Server thread/INFO]: [Luis512MC: Set own game mode to Creative Mode]
 [05:04:26] [Server thread/INFO]: Luis512MC issued server command: /gamemode survival
 [05:04:26] [Server thread/INFO]: [Luis512MC: Set own game mode to Survival Mode]
+[05:23:16] [Server thread/INFO]: Luis512MC issued server command: /locate structure #minecraft:village
+[05:23:17] [Server thread/INFO]: Locating element #minecraft:village (minecraft:village_taiga) took 885 ms

@@ -151,3 +151,11 @@
 [03:20:43] [Server thread/INFO]: Luis512MC issued server command: /actp 1
 [03:20:45] [Server thread/INFO]: Luis512MC issued server command: /actp 1
 [03:20:48] [Server thread/INFO]: Luis512MC issued server command: /actp 1
+[03:30:59] [Server thread/INFO]: Luis512MC lost connection: Timed out
+[03:30:59] [Server thread/INFO]: Luis512MC left the game
+[03:31:59] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[03:34:05] [User Authenticator #2/INFO]: UUID of player Luis512MC is 5481e4e4-6be3-3172-8677-4830fb8a2f43
+[03:34:08] [Server thread/INFO]: Luis512MC joined the game
+[03:34:09] [Server thread/INFO]: Luis512MC[/127.63.10.228:58213] logged in with entity id 3765 at ([world]553.3367627643134, 66.0, -504.6916116051478)
+[03:35:41] [Server thread/INFO]: Luis512MC burned to death
+[03:35:46] [Server thread/INFO]: Luis512MC issued server command: /actp 1

@@ -169,3 +169,22 @@
 [03:59:08] [Server thread/INFO]: [Luis512MC: Set own game mode to Survival Mode]
 [04:16:21] [Server thread/INFO]: Luis512MC issued server command: /gamemode creative
 [04:16:21] [Server thread/INFO]: [Luis512MC: Set own game mode to Creative Mode]
+[04:21:03] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username YOUBOZZZ
+[04:21:03] [localSession-7-2/INFO]: [Geyser-Spigot] YOUBOZZZ (logged in as: YOUBOZZZ) has connected to the Java server
+[04:21:03] [Server thread/INFO]: [floodgate] Floodgate player logged in as .YOUBOZZZ joined (UUID: 00000000-0000-0000-0009-01f677972c7e)
+[04:21:03] [Server thread/INFO]: .YOUBOZZZ joined the game
+[04:21:03] [Server thread/INFO]: .YOUBOZZZ[/127.0.0.1:0] logged in with entity id 10419 at ([world]182.30001, 70.0, 464.46747)
+[04:22:27] [Server thread/WARN]: .YOUBOZZZ moved wrongly!
+[04:23:21] [Server thread/WARN]: .YOUBOZZZ moved wrongly!
+[04:23:29] [Async Chat Thread - #0/INFO]: [Not Secure] <Luis512MC> eso alex
+[04:23:30] [localSession-7-2/INFO]: [Geyser-Spigot] YOUBOZZZ has disconnected from the Java server because of Bedrock client disconnected
+[04:23:30] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .YOUBOZZZ disconnected
+[04:23:30] [Server thread/INFO]: .YOUBOZZZ lost connection: Disconnected
+[04:23:30] [Server thread/INFO]: .YOUBOZZZ left the game
+[04:26:59] [Server thread/WARN]: Luis512MC moved too quickly! 0.0,0.0,-10.797800144489202
+[04:27:15] [Server thread/INFO]: Luis512MC issued server command: /gamemode survival
+[04:27:15] [Server thread/INFO]: [Luis512MC: Set own game mode to Survival Mode]
+[04:28:21] [Server thread/INFO]: Luis512MC issued server command: /gamemode creative
+[04:28:21] [Server thread/INFO]: [Luis512MC: Set own game mode to Creative Mode]
+[04:29:30] [Server thread/INFO]: Luis512MC issued server command: /gamemode survival
+[04:29:30] [Server thread/INFO]: [Luis512MC: Set own game mode to Survival Mode]

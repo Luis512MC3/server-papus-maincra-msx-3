@@ -188,3 +188,7 @@
 [04:28:21] [Server thread/INFO]: [Luis512MC: Set own game mode to Creative Mode]
 [04:29:30] [Server thread/INFO]: Luis512MC issued server command: /gamemode survival
 [04:29:30] [Server thread/INFO]: [Luis512MC: Set own game mode to Survival Mode]
+[04:31:22] [Server thread/INFO]: Luis512MC issued server command: /gamemode creative
+[04:31:22] [Server thread/INFO]: [Luis512MC: Set own game mode to Creative Mode]
+[04:39:58] [Server thread/INFO]: Luis512MC issued server command: /gamemode survival
+[04:39:58] [Server thread/INFO]: [Luis512MC: Set own game mode to Survival Mode]

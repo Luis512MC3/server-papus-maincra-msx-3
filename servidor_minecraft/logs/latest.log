@@ -159,3 +159,11 @@
 [03:34:09] [Server thread/INFO]: Luis512MC[/127.63.10.228:58213] logged in with entity id 3765 at ([world]553.3367627643134, 66.0, -504.6916116051478)
 [03:35:41] [Server thread/INFO]: Luis512MC burned to death
 [03:35:46] [Server thread/INFO]: Luis512MC issued server command: /actp 1
+[03:52:45] [Server thread/INFO]: Luis512MC issued server command: /gamemode creative
+[03:52:45] [Server thread/INFO]: [Luis512MC: Set own game mode to Creative Mode]
+[03:53:10] [Server thread/INFO]: Luis512MC issued server command: /gamemode survival
+[03:53:10] [Server thread/INFO]: [Luis512MC: Set own game mode to Survival Mode]
+[03:55:14] [Server thread/INFO]: Luis512MC issued server command: /gamemode creative
+[03:55:14] [Server thread/INFO]: [Luis512MC: Set own game mode to Creative Mode]
+[03:59:08] [Server thread/INFO]: Luis512MC issued server command: /gamemode survival
+[03:59:08] [Server thread/INFO]: [Luis512MC: Set own game mode to Survival Mode]

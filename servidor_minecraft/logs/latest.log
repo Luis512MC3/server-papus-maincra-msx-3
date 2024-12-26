@@ -128,3 +128,19 @@
 [02:09:38] [Server thread/INFO]: [AngelChest] https://www.spigotmc.org/resources/88214
 [02:09:38] [Server thread/INFO]: [AngelChest] ========================================================
 [02:10:35] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[02:20:26] [User Authenticator #0/INFO]: UUID of player Luis512MC is 5481e4e4-6be3-3172-8677-4830fb8a2f43
+[02:20:32] [Server thread/INFO]: Luis512MC joined the game
+[02:20:32] [Server thread/INFO]: Luis512MC[/127.63.10.228:41177] logged in with entity id 14 at ([world]704.1299493783973, 96.0, -950.1206279407527)
+[02:21:15] [Server thread/INFO]: Luis512MC issued server command: /gamemode creative
+[02:21:15] [Server thread/INFO]: [Luis512MC: Set own game mode to Creative Mode]
+[02:21:53] [Server thread/WARN]: Luis512MC moved too quickly! -2.8727428680056164,8.725772777226823,7.354577177985448
+[02:21:57] [Server thread/WARN]: Luis512MC moved too quickly! -11.109369044122104,0.0,33.49396427908448
+[02:22:24] [Server thread/INFO]: Luis512MC lost connection: Timed out
+[02:22:24] [Server thread/INFO]: Luis512MC left the game
+[02:22:53] [User Authenticator #1/INFO]: UUID of player Luis512MC is 5481e4e4-6be3-3172-8677-4830fb8a2f43
+[02:22:55] [Server thread/INFO]: Luis512MC joined the game
+[02:22:55] [Server thread/INFO]: Luis512MC[/127.63.10.228:46243] logged in with entity id 644 at ([world]614.403203901282, 70.63040827256728, -712.9414018946906)
+[02:24:24] [Server thread/INFO]: Luis512MC issued server command: /gamemode survival
+[02:24:24] [Server thread/INFO]: [Luis512MC: Set own game mode to Survival Mode]
+[02:24:42] [Server thread/INFO]: Luis512MC issued server command: /gamemode creative
+[02:24:42] [Server thread/INFO]: [Luis512MC: Set own game mode to Creative Mode]

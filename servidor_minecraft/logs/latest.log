@@ -132,3 +132,14 @@
 [04:03:53] [Server thread/INFO]: [floodgate] Floodgate player logged in as .CrashBlock73577 joined (UUID: 00000000-0000-0000-0009-01f00bc69dfd)
 [04:03:53] [Server thread/INFO]: .CrashBlock73577 joined the game
 [04:03:53] [Server thread/INFO]: .CrashBlock73577[/127.0.0.1:0] logged in with entity id 51 at ([world]1706.5554, 128.0, -691.2933)
+[04:16:22] [Server thread/WARN]: .CrashBlock73577 moved wrongly!
+[04:19:44] [localSession-7-2/INFO]: [Geyser-Spigot] CrashBlock73577 has disconnected from the Java server because of Bedrock client timed out
+[04:19:44] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .CrashBlock73577 disconnected
+[04:19:44] [Server thread/INFO]: .CrashBlock73577 lost connection: Disconnected
+[04:19:44] [Server thread/INFO]: .CrashBlock73577 left the game
+[04:20:44] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[04:21:28] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username CrashBlock73577
+[04:21:28] [localSession-7-3/INFO]: [Geyser-Spigot] CrashBlock73577 (logged in as: CrashBlock73577) has connected to the Java server
+[04:21:29] [Server thread/INFO]: [floodgate] Floodgate player logged in as .CrashBlock73577 joined (UUID: 00000000-0000-0000-0009-01f00bc69dfd)
+[04:21:29] [Server thread/INFO]: .CrashBlock73577 joined the game
+[04:21:29] [Server thread/INFO]: .CrashBlock73577[/127.0.0.1:0] logged in with entity id 1910 at ([world]1955.6945, 73.0, -571.71747)

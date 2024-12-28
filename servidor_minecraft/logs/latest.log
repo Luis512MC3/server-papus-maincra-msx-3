@@ -220,3 +220,24 @@
 [05:00:29] [Async Chat Thread - #21/INFO]: [Not Secure] <Luis512MC> onde quieras
 [05:01:54] [Server thread/INFO]: .CrashBlock73577 has made the advancement [A Terrible Fortress]
 [05:02:16] [Async Chat Thread - #23/INFO]: [Not Secure] <.CrashBlock73577> mejor que el six flax XD
+[05:03:54] [Server thread/INFO]: .CrashBlock73577 has made the advancement [Into Fire]
+[05:05:12] [localSession-7-3/INFO]: [Geyser-Spigot] CrashBlock73577 has disconnected from the Java server because of Bedrock client disconnected
+[05:05:12] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .CrashBlock73577 disconnected
+[05:05:12] [Server thread/INFO]: .CrashBlock73577 lost connection: Disconnected
+[05:05:12] [Server thread/INFO]: .CrashBlock73577 left the game
+[05:06:46] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Player connected with username CrashBlock73577
+[05:06:46] [localSession-7-4/INFO]: [Geyser-Spigot] CrashBlock73577 (logged in as: CrashBlock73577) has connected to the Java server
+[05:06:46] [Server thread/INFO]: [floodgate] Floodgate player logged in as .CrashBlock73577 joined (UUID: 00000000-0000-0000-0009-01f00bc69dfd)
+[05:06:46] [Server thread/INFO]: .CrashBlock73577 joined the game
+[05:06:46] [Server thread/INFO]: .CrashBlock73577[/127.0.0.1:0] logged in with entity id 14968 at ([world_nether]212.93222, 60.0, -291.34564)
+[05:07:11] [Server thread/INFO]: Luis512MC was slain by Wither Skeleton
+[05:07:19] [Async Chat Thread - #25/INFO]: [Not Secure] <Luis512MC> rushearon todos
+[05:07:21] [Server thread/INFO]: Luis512MC issued server command: /actp 1
+[05:08:14] [Server thread/INFO]: .CrashBlock73577 burned to death
+[05:08:30] [Async Chat Thread - #27/INFO]: [Not Secure] <.CrashBlock73577> memo
+[05:08:52] [Async Chat Thread - #27/INFO]: [Not Secure] <.CrashBlock73577> creo que necesito si o si hacer la cam
+[05:09:57] [Server thread/INFO]: Luis512MC burned to death
+[05:10:03] [Server thread/INFO]: Luis512MC issued server command: /actp 1
+[05:10:05] [Async Chat Thread - #29/INFO]: [Not Secure] <.CrashBlock73577> XD
+[05:11:25] [Server thread/INFO]: Luis512MC issued server command: /tp .CrashBlock73577 Luis512MC
+[05:11:25] [Server thread/INFO]: [Luis512MC: Teleported .CrashBlock73577 to Luis512MC]

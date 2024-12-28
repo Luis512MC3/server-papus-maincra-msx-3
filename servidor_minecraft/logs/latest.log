@@ -127,3 +127,8 @@
 [03:52:29] [Server thread/INFO]: [AngelChest] https://www.spigotmc.org/resources/88214
 [03:52:29] [Server thread/INFO]: [AngelChest] ========================================================
 [03:53:26] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[04:03:52] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username CrashBlock73577
+[04:03:52] [localSession-7-2/INFO]: [Geyser-Spigot] CrashBlock73577 (logged in as: CrashBlock73577) has connected to the Java server
+[04:03:53] [Server thread/INFO]: [floodgate] Floodgate player logged in as .CrashBlock73577 joined (UUID: 00000000-0000-0000-0009-01f00bc69dfd)
+[04:03:53] [Server thread/INFO]: .CrashBlock73577 joined the game
+[04:03:53] [Server thread/INFO]: .CrashBlock73577[/127.0.0.1:0] logged in with entity id 51 at ([world]1706.5554, 128.0, -691.2933)
